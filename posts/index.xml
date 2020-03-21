@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Tech Track</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Mar 2020 14:55:03 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2020 16:14:32 +0800</lastBuildDate>
     
 	<atom:link href="https://bryantma.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://bryantma.github.io/posts/hello-world/</link>
+      <pubDate>Sat, 21 Mar 2020 16:14:32 +0800</pubDate>
+      
+      <guid>https://bryantma.github.io/posts/hello-world/</guid>
+      <description>Hello World This blog is deployed on github pages and is used to collect tech talks written by me including python skills and algorithm discussions.</description>
+    </item>
     
     <item>
       <title>My First Post</title>

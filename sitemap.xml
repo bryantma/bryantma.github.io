@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bryantma.github.io/posts/hello-world/</loc>
-    <lastmod>2020-03-21T16:14:32+08:00</lastmod>
+    <loc>https://bryantma.github.io/posts/lc-1/</loc>
+    <lastmod>2020-03-21T16:25:25+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://bryantma.github.io/posts/</loc>
-    <lastmod>2020-03-21T16:14:32+08:00</lastmod>
+    <lastmod>2020-03-21T16:25:25+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://bryantma.github.io/</loc>
+    <lastmod>2020-03-21T16:25:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bryantma.github.io/posts/hello-world/</loc>
     <lastmod>2020-03-21T16:14:32+08:00</lastmod>
   </url>
   
